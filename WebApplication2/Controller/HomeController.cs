@@ -10,7 +10,7 @@ namespace WebApplication2
     {
         public IActionResult Index()
         {
-            return View("data");
+            return View("datass");
         }
     }
 }
