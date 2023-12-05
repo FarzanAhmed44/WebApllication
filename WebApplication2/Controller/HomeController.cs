@@ -10,6 +10,7 @@ namespace WebApplication2
     {
         public IActionResult Index()
         {
+            Console.WriteLine("Hi");
             return View("datass");
         }
     }
