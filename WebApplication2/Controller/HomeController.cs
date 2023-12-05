@@ -11,6 +11,7 @@ namespace WebApplication2
         public IActionResult Index()
         {
             Console.WriteLine("Hi new lines");
+            Console.WriteLine("Hi second new lines");
             Console.WriteLine("Hi");
             return View("datass");
             
